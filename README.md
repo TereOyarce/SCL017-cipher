@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 ## Índice
 
 * [1. Descripción](#1-descripción)
@@ -47,5 +47,4 @@ Se utilizó además,una paleta de color acotada, con tonalidades cálidas,que en
 -Apretamos el botón que dice "descifrar"  
 
 -Nos Devolverá el texto descifrado en la caja de texto del lado derecho.
-=======
->>>>>>> 924df3ed2948fbb3b268f259c171ad095e2cf778
+
