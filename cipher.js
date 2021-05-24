@@ -1,8 +1,8 @@
 const abc = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var texto2 = document.getElementById("texto2");
 
 const cipher = {
     encode: (texto1, offset) => {
-        var resultado = "";
 
         offset = (offset % 26) % 26;
 
@@ -22,11 +22,11 @@ const cipher = {
 
 
 
-        return resultado;
+
     },
 
     decode: (texto1, offset) => {
-        var resultado = "";
+
 
         offset = (offset % 26) % 26;
         /*Esta formula se ocupa para calcular el desplazamiento,
@@ -46,7 +46,7 @@ const cipher = {
             }
         }
 
-        return resultado;
+
 
     },
 };
