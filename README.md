@@ -30,14 +30,20 @@ Se utilizó además,una paleta de color acotada, con tonalidades cálidas,que en
 ## 3. Cómo utilizar
 * **Cifrar** :    
 
--Ingresamos el texto que deseamos cifrar en la primera caja de texto(Izquierda)
--Seleccionamos ,en la barra de abajo,el número de desplazamiento que deseamos.
--Apretamos el botón que dice "cifrar"
+-Ingresamos el texto que deseamos cifrar en la primera caja de texto(Izquierda).  
+
+-Seleccionamos ,en la barra de abajo,el número de desplazamiento que deseamos.  
+
+-Apretamos el botón que dice "cifrar".  
+
 -Nos Devolverá el texto cifrado en la caja de texto del lado derecho.
 
 * **Descifrar** :    
 
--Ingresamos el texto que deseamos descifrar en la primera caja de texto(Izquierda)
--Seleccionamos ,en la barra de abajo,el número de desplazamiento que deseamos.
--Apretamos el botón que dice "descifrar"
+-Ingresamos el texto que deseamos descifrar en la primera caja de texto(Izquierda)  
+
+-Seleccionamos ,en la barra de abajo,el número de desplazamiento que deseamos.  
+
+-Apretamos el botón que dice "descifrar"  
+
 -Nos Devolverá el texto descifrado en la caja de texto del lado derecho.
