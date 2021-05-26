@@ -13,7 +13,7 @@ const cipher = {
                 for (var n = 0; n < abc.length; n++) {
                     if (texto1[i].toUpperCase() == abc[n]) { /*El valor de i es = a el valor de n? Si no es así,pasa la siguiente iteración*/
                         var formula = (n + offset) % 26;
-                        resultado += abc[formula]; /* Texto2= a Texto2 + el resultado de la formula*/
+                        resultado += abc[formula]; /* Resultado es igual a resultado + el resultado de la formula*/
                     }
                 }
             }
