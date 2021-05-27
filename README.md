@@ -43,7 +43,7 @@ También se le dio un mayor tamaño a la tipografía.
 
 -Apretamos el botón que dice "cifrar".  
 
--Nos Devolverá el texto cifrado en la caja de texto del lado derecho.
+-Nos Devolverá el texto cifrado en la caja de más abajo.
 
 * **Descifrar** :    
 
@@ -53,7 +53,7 @@ También se le dio un mayor tamaño a la tipografía.
 
 -Apretamos el botón que dice "descifrar"  
 
--Nos Devolverá el texto descifrado en la caja de texto del lado derecho.
+-Nos Devolverá el texto descifrado en la caja de más abajo.
 
 **Pagina Web**
 https://tereoyarce.github.io/SCL017-cipher/
