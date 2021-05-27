@@ -20,6 +20,10 @@ las cuales buscan un espacio seguro y sororo donde poder comunicarse con otras c
 Para este proyecto,comencé buscando mi público objetivo, y como realizar una interfaz amigable con él.
 Para esto, hice un boceto simple,pero que cumpliera con todos los requerimientos,la cual pudiese visualizarse de manera optima en dispositivos mobiles como computador.
 Se utilizó además,una paleta de color acotada, con tonalidades cálidas,que entregaran una sensación de confort.
+**Prototipo**
+![imagen_2021-05-27_113507](https://user-images.githubusercontent.com/83033055/119855122-a75ff400-bedf-11eb-822b-f0ba5371b79e.png)
+
+**Visualización en las distintas resoluciones**
 ![imagen_2021-05-24_091042](https://user-images.githubusercontent.com/83033055/119352674-f9024780-bc6f-11eb-9fc9-72820a02d591.png)
 
 
@@ -30,7 +34,7 @@ Se utilizó además,una paleta de color acotada, con tonalidades cálidas,que en
 ## 3. Cómo utilizar
 * **Cifrar** :    
 
--Ingresamos el texto que deseamos cifrar en la primera caja de texto(Izquierda).  
+-Ingresamos el texto que deseamos cifrar en la primera caja de texto(Primera ).  
 
 -Seleccionamos ,en la barra de abajo,el número de desplazamiento que deseamos.  
 
@@ -40,7 +44,7 @@ Se utilizó además,una paleta de color acotada, con tonalidades cálidas,que en
 
 * **Descifrar** :    
 
--Ingresamos el texto que deseamos descifrar en la primera caja de texto(Izquierda)  
+-Ingresamos el texto que deseamos descifrar en la primera caja de texto(Primera)  
 
 -Seleccionamos ,en la barra de abajo,el número de desplazamiento que deseamos.  
 
@@ -48,3 +52,5 @@ Se utilizó además,una paleta de color acotada, con tonalidades cálidas,que en
 
 -Nos Devolverá el texto descifrado en la caja de texto del lado derecho.
 
+**Pagina Web**
+https://tereoyarce.github.io/SCL017-cipher/
