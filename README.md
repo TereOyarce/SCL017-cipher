@@ -19,7 +19,8 @@ las cuales buscan un espacio seguro y sororo donde poder comunicarse con otras c
 ## 2. Proceso
 Para este proyecto,comencé buscando mi público objetivo, y como realizar una interfaz amigable con él.
 Para esto, hice un boceto simple,pero que cumpliera con todos los requerimientos,la cual pudiese visualizarse de manera optima en dispositivos mobiles como computador.
-Se utilizó además,una paleta de color acotada, con tonalidades cálidas,que entregaran una sensación de confort.
+Se utilizó además,una paleta de color acotada, con tonalidades cálidas,que entregaran una sensación de confort.  
+
 **Prototipo**
 ![imagen_2021-05-27_113507](https://user-images.githubusercontent.com/83033055/119855122-a75ff400-bedf-11eb-822b-f0ba5371b79e.png)
 
