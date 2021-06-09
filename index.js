@@ -21,7 +21,6 @@ descifrar.addEventListener("click", () => {
     texto1 = document.getElementById("texto1").value;
     texto2 = document.getElementById("texto2");
     texto2.value = cipher.decode(texto1, offset);
-
 });
 
 console.log(cipher);
